@@ -1,0 +1,12 @@
+{
+  "name": "nw-demo",
+  "version": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/.bin/nw ."
+  },
+  "dependencies": {
+    "nw": "^0.14.0-1"
+  },
+  "js-flags": "--harmony"
+}
